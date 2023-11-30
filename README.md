@@ -15,6 +15,7 @@ This program is based on improvements made on [PTT-Crawler](https://github.com/z
 
 This program is use python.
 
+***
 
 **功能**
 
@@ -40,6 +41,7 @@ download respond(option)
 
 results including post title, content, author, date, respond(option)
 
+***
 
 **如何使用?**
 
@@ -66,6 +68,7 @@ results including post title, content, author, date, respond(option)
 
 read the sample.py for more information
 
+***
 
 **常用函式**
 
@@ -101,6 +104,7 @@ read the sample.py for more information
 
     -output(filename, data):              輸入data, 把輸入的data輸出為json檔,檔名=filename    input data,output data stored in .json, name=filename
 
+***
 
 **已知BUG**
 
@@ -114,6 +118,7 @@ if the date starts from the first page, there is less chance of catching wrong d
 
 if the amount of data you are retrieving is large(page>6000), it may slow down your computer. if you want to do this, it is recommended to do it in batches
 
+***
 
 **結語**
 
