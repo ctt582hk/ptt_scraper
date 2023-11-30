@@ -28,7 +28,7 @@ for board in boards:
 
         #   爬ptt
         crawler.crawl_Search(board=board, mode='no respond', date_range=[date_start, date_end],
-                                          keywords=None, page_range=[page_start, page_end])
+                                          keywords=keywords, page_range=[page_start, page_end])
 
     except Exception as err:
         print('Can not get the data from ' + board + ', error message is : ', err)
