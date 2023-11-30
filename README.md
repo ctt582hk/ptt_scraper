@@ -28,6 +28,10 @@ supports board, date, page, keywords search. The results will stored in .json
 
 if the board need to pressing "ok", such as 18 years old warning, the data will fail to catch
 
+此模組僅擷取文字
+
+this program can get text only
+
 可根據需要選擇是否下載貼文下的回應
 
 download respond(option)
