@@ -7,7 +7,7 @@
 
 This program is a crawlers specially designed to crawl PTT post data.
 
-此模組是基於<https://github.com/zake7749/<PTT-Crawler>>上作出的改良, 支持依 版塊, 日期, 頁數, 關鍵字搜索並下載貼文, 結果會儲存為json檔
+此模組是基於https://github.com/zake7749/<PTT-Crawler>上作出的改良, 支持依 版塊, 日期, 頁數, 關鍵字搜索並下載貼文, 結果會儲存為json檔
 
 This program is based on improvements made on [PTT-crawler]<https://github.com/zake7749/PTT-Crawler> and supports board, date, page, keywords search.The results will stored in .json
 
