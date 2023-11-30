@@ -117,4 +117,6 @@ if the amount of data you are retrieving is large(page>6000), it may slow down y
 
 第一次寫(改)爬蟲, 如果寫得不好請多見諒, 目前的功能夠我使用了, 所以至少近期內也不會更新, 如果想修改/新增功能可以隨便改
 
+如有問題, 可以連絡我, 我會儘量回答
+
 ~~快寫好才發現PTT有放API出來, 但已經寫了大半只好硬着頭皮寫完的我真的是baka~~
