@@ -126,9 +126,12 @@ class PttCrawler:
             # 取得內文
             content = ""
             for tag in soup.select("#main-content")[0]:
+                content += tag.text
+                '''
                 if type(tag) is NavigableString and tag != '\n':
                     content += tag
                     break
+                '''
             article["Content"] = content
             #   若keywords存在, 判斷title and context是否包含任意keywords
 
